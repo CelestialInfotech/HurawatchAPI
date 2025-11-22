@@ -34,18 +34,26 @@
         "servers": [
             {
                 "server_name": "UpCloud",
-                "link_id": "12825565",
+                "link_id": "12704911",
                 "source": {
                     "type": "iframe",
-                    "link": "https://videostr.net/embed-1/v3/e-1/vjt9Fgp2futx?z="
+                    "link": "https://videostr.net/embed-1/v3/e-1/eoIFm01UXoOK?z="
+                }
+            },
+            {
+                "server_name": "AKCloud",
+                "link_id": "12704905",
+                "source": {
+                    "type": "iframe",
+                    "link": "https://videostr.net/embed-1/v3/e-1/V2d4wPbciofd?z="
                 }
             },
             {
                 "server_name": "MegaCloud",
-                "link_id": "12825502",
+                "link_id": "12704836",
                 "source": {
                     "type": "iframe",
-                    "link": "https://videostr.net/embed-1/v3/e-1/E2IPgVPTR51a?z="
+                    "link": "https://videostr.net/embed-1/v3/e-1/ovx8HmYp8Q6W?z="
                 }
             }
         ]
