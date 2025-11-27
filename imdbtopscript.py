@@ -153,7 +153,7 @@ def scrape_paginated_movies_fast():
     all_movies = load_existing()
     visited = set(movie["url"] for movie in all_movies)
 
-    page = 907
+    page = 1
     while True:
         page_url = f"{BASE_URL}/top-imdb?type=all&page={page}"
         print(f"\n=== PAGE {page} ===")
